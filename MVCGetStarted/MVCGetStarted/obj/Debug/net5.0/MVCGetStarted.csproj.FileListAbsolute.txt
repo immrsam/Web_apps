@@ -38,3 +38,5 @@ F:\_programming\Web_apps\MVCGetStarted\MVCGetStarted\obj\Debug\net5.0\ref\MVCGet
 F:\_programming\Web_apps\MVCGetStarted\MVCGetStarted\obj\Debug\net5.0\MVCGetStarted.pdb
 F:\_programming\Web_apps\MVCGetStarted\MVCGetStarted\obj\Debug\net5.0\MVCGetStarted.genruntimeconfig.cache
 F:\_programming\Web_apps\MVCGetStarted\MVCGetStarted\obj\Debug\net5.0\MVCGetStarted.csproj.CopyComplete
+F:\_programming\Web_apps\MVCGetStarted\MVCGetStarted\obj\Debug\net5.0\Razor\Views\HelloWorld\Index.cshtml.g.cs
+F:\_programming\Web_apps\MVCGetStarted\MVCGetStarted\obj\Debug\net5.0\Razor\Views\HelloWorld\Welcome.cshtml.g.cs

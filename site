@@ -1,0 +1,3 @@
+#!/bin/bash
+
+explorer.exe "https://www.docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/adding-model?view=aspnetcore-5.0&tabs=visual-studio"
